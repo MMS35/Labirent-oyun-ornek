@@ -1,0 +1,10 @@
+C:\Users\SILENCE\Desktop\PROJELER\Labirent\Labirent\bin\Debug\Labirent.exe.config
+C:\Users\SILENCE\Desktop\PROJELER\Labirent\Labirent\bin\Debug\Labirent.exe
+C:\Users\SILENCE\Desktop\PROJELER\Labirent\Labirent\bin\Debug\Labirent.pdb
+C:\Users\SILENCE\Desktop\PROJELER\Labirent\Labirent\obj\Debug\Labirent.csproj.AssemblyReference.cache
+C:\Users\SILENCE\Desktop\PROJELER\Labirent\Labirent\obj\Debug\Labirent.Form1.resources
+C:\Users\SILENCE\Desktop\PROJELER\Labirent\Labirent\obj\Debug\Labirent.Properties.Resources.resources
+C:\Users\SILENCE\Desktop\PROJELER\Labirent\Labirent\obj\Debug\Labirent.csproj.GenerateResource.cache
+C:\Users\SILENCE\Desktop\PROJELER\Labirent\Labirent\obj\Debug\Labirent.csproj.CoreCompileInputs.cache
+C:\Users\SILENCE\Desktop\PROJELER\Labirent\Labirent\obj\Debug\Labirent.exe
+C:\Users\SILENCE\Desktop\PROJELER\Labirent\Labirent\obj\Debug\Labirent.pdb
